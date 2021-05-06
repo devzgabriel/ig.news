@@ -43,6 +43,7 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
+
 ---
 
 <p align="center">Made with 💜 by Gabriel Silva</p>
