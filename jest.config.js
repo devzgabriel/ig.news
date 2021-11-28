@@ -9,12 +9,12 @@ module.exports = {
   },
   testEnvironment: 'jsdom',
 
-  // collectCoverage: true,
-  // collectCoverageFrom: [
-  //   'src/**/*.tsx',
-  //   '!src/**/*.spec.tsx',
-  //   '!src/**/_app.tsx',
-  //   '!src/**/_document.tsx',
-  // ],
-  // coverageReporters: ['lcov', 'json'],
+  collectCoverage: true,
+  collectCoverageFrom: [
+    'src/**/*.tsx',
+    '!src/**/*.spec.tsx',
+    '!src/**/_app.tsx',
+    '!src/**/_document.tsx',
+  ],
+  coverageReporters: ['lcov', 'json'],
 }
